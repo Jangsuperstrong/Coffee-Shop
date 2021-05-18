@@ -15,7 +15,7 @@ Website: 	https://www.facebook.com/Jangsuperstrong
 
 Changelog:
 -----------------------
-Version 1.0 21-05-2018
+Version 1.0 18-05-2021
 - initial release 
 
 
